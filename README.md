@@ -5,7 +5,7 @@
 - <b>Full Stack Web Apps (PHP, React.JS, and SQLite)</b>
   - [CHI2023-Research-Explorer](https://github.com/Shawryfall/CHI2023-Research-Explorer?tab=readme-ov-file)
   - [User Survey Website](https://github.com/Shawryfall/User-Survey-Website/tree/main)
-- <b>Python (TensorFlow, Keras, Bayesian Optimization, Image Data Preprocessing, and GUI)</b>
+- <b>Python Machine Learning (TensorFlow, Keras, Bayesian Optimization, Image Data Preprocessing, and GUI)</b>
   - [Name Image Classification System](https://github.com/Shawryfall/Handwritten-Name-Classifier-GUI)
 - <b>Data Analysis (Pandas, NumPy, Matplotlib, SQL, Jupyter Notebooks)</b>
   - [Python Data Analysis Bootcamp](https://github.com/Shawryfall/python-data-analysis-bootcamp/tree/main)
