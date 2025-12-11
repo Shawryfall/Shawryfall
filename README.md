@@ -17,10 +17,6 @@
 [<img align="left" alt="LinkedIn" width="22px" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg#gh-light-mode-only" />][linkedin]
 
-<!-- Dark mode icon (white LinkedIn logo) -->
-[<img align="left" alt="LinkedIn" width="22px" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg#gh-dark-mode-only" />][linkedin]
-
 [linkedin]: https://www.linkedin.com/in/patrick-shaw-b57700278/
 
 
